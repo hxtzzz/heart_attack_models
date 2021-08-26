@@ -1,2 +1,8 @@
 # heart_attack_models
-heart attack models by pytorch, gui by pyside2
+From NewCastle University
+Xiaotian Hu
+
+heart attack neural network models is based on pytorch, GUI design is created by pyside2. The version of Python is 3.8.5.
+
+The modules should be installed in Python environment.
+
