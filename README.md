@@ -7,3 +7,4 @@ heart attack neural network models is based on pytorch, GUI design is created by
 
 The modules should be installed in Python environment.
 
+To run the .py successfully, all the files should be stored in the same path.
