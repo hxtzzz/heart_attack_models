@@ -1,0 +1,19 @@
+This program helps people use neural network to get their predictions of chance of heart attack.
+
+Input Information
+age - Age of the patient 
+sex - Sex of the patient 
+cp - Chest pain type ~ 0 = Typical Angina, 1 = Atypical Angina, 2 = Non-anginal Pain, 3 = Asymptomatic 
+trtbps - Resting blood pressure (in mm Hg)
+chol - Cholestoral in mg/dl fetched via BMI sensor 
+fbs - (fasting blood sugar > 120 mg/dl) ~ 1 = True, 0 = False  
+restecg - Resting electrocardiographic results ~ 0 = Normal, 1 = ST-T wave abnormality, 2 = Left ventricular hypertrophy
+thalachh - Maximum heart rate achieved
+oldpeak - Previous peak
+slp – Slope of the highest moving ST segment (1 uphill, 2 flat, 3 downhill)
+caa - Number of major vessels （0~4）
+thall - A blood disease called thalassemia (normal; Fixed defect; Reversible defect  (1 normal, 2 fixed defect, 3 reversible defect) 
+exng - Exercise induced angina ~ 1 = Yes, 0 = No 
+
+output information
+0= less chance of heart attack 1= more chance of heart attack

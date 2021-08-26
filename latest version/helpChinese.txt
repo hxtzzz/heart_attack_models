@@ -1,0 +1,32 @@
+该程序通过神经网络，帮助人们预测自己心脏病发生的概率。
+
+输入变量信息：
+age - 年龄
+sex - 性别
+cp - Chest pain type ：0 = Typical Angina, 1 = Atypical Angina, 2 = Non-anginal Pain, 3 = Asymptomatic 
+胸痛类型 0 = 典型心绞痛 1 = 非典型心绞痛 2 = 非心绞痛 3 = 无症状
+trtbps - Resting blood pressure (in mm Hg) 
+静息血压 (水银柱测量mm)
+chol - Cholestoral in mg/dl fetched via BMI sensor 
+胆固醇测量指标
+fbs - (fasting blood sugar > 120 mg/dl) ~ 1 = True, 0 = False  
+空腹血糖是否大于120mg/0.1升， 1 是， 0 不是
+restecg - Resting electrocardiographic results ~ 0 = Normal, 1 = ST-T wave abnormality, 2 = Left ventricular hypertrophy
+静息心电图 0 = 正常 1 = 有 ST-T 波异常（T 波倒置和/或 ST 段抬高或压低 > 0.05 mV） 2 = 左心室肥大
+thalachh - Maximum heart rate achieved 
+最大心率
+oldpeak - Previous peak
+前峰(ST抑制)
+slp – Slope 
+最高运动ST段的斜率（1上坡，2平坦，3下坡）
+caa - Number of major vessels 
+萤光显色的主血管数量 (0-4)
+thall - A blood disease called thalassemia (normal; Fixed defect; Reversible defect  (1 normal, 2 fixed defect, 3 reversible defect) 
+地中海贫血疾病症状 （1 普通 2 固定 3  可逆）
+exng - Exercise induced angina ~ 1 = Yes, 0 = No  
+运动性心绞痛 1 = 是 0 = 否
+
+输出目标变量信息：
+ 0= 小概率发生心脏病   1= 大概率发生心脏病
+
+
