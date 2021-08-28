@@ -364,7 +364,7 @@ font-family:arial;
              <item row="7" column="0">
               <widget class="QLabel" name="label_15">
                <property name="text">
-                <string>slope: 1 uphill, 2 flat, 3 downhill</string>
+                <string>slope: 0 uphill, 1 flat, 2 downhill</string>
                </property>
               </widget>
              </item>
