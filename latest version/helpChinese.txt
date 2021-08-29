@@ -18,7 +18,7 @@ thalachh - Maximum heart rate achieved
 oldpeak - Previous peak
 前峰(ST抑制)
 slp – Slope 
-最高运动ST段的斜率（1上坡，2平坦，3下坡）
+最高运动ST段的斜率（0上坡，1平坦，2下坡）
 caa - Number of major vessels 
 萤光显色的主血管数量 (0-4)
 thall - A blood disease called thalassemia (normal; Fixed defect; Reversible defect  (1 normal, 2 fixed defect, 3 reversible defect) 
